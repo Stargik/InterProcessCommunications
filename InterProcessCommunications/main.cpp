@@ -1,14 +1,11 @@
-//
-//  main.cpp
-//  InterProcessCommunications
-//
-//  Created by Aleksandr Starzhynskyi on 12.04.2024.
-//
-
 #include <iostream>
+#include <cstring>
+#include <cstdlib>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+
+using namespace std;
+
+int main() {
+    cout << "Hello world!";
     return 0;
 }
